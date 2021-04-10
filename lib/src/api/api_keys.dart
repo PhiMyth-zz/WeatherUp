@@ -1,3 +1,3 @@
 class ApiKey {
-  static String OPEN_WEATHER_MAP = "2f8796eefe67558dc205b09dd336d022";
+  static String OPEN_WEATHER_MAP = "8ba38023fe7c13e79596811b4783516e";
 }
